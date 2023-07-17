@@ -73,5 +73,21 @@
 
 <p align="left">https://github.com/Irfan-Ely/Web-Scrapper-Special-Purpose-</p>
 
+
 ###
+
+<h1 align="left">Tools</h1>
+
+###
+
+<h3 align="left">Wireshark</h3>
+<h3 align="left">Security Information & Event (SIEM)</h3>
+<h3 align="left">Burpsuite</h3>
+<h3 align="left">Nmap</h3>
+<h3 align="left">Metasploit</h3>
+<h3 align="left">TCPDump</h3>
+
+
+###
+
 
