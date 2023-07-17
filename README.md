@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/irfan-ely/irfan-ely/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/erfan-aly/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
