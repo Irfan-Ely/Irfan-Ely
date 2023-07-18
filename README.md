@@ -1,6 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/e8701c29-a6a5-439e-98f9-92616ecb8ca5)
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
+
 
 <p align="left">My name is Irfan Ali and I'm passionate about safeguarding the digital environment by identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</p>
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Graduate From University Of Baltistan Skardu<br>📚 I'm currently learning and practicing cybersecurity<br>🎯 Goals: Offensive Security Engineer</p>
+<p align="left">✨ Graduated From University Of Baltistan Skardu<br>📚 I'm currently learning and practicing cybersecurity<br>🎯 Goals: Offensive Security Engineer</p>
 
 ###
 
