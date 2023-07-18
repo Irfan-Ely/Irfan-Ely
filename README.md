@@ -1,5 +1,8 @@
 
 ![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/e8701c29-a6a5-439e-98f9-92616ecb8ca5)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=irfan-ely.irfan-ely&"  />
+</div>
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -81,18 +84,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irfan-ely.irfan-ely&"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfan-ely&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-ely&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <h1 align="left">Projects</h1>
 
