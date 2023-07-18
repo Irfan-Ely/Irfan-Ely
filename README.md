@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Programming Languages & Technology</h2>
+<h2 align="left">Technical Skills</h2>
 
 ###
 
