@@ -1,3 +1,4 @@
+
 ![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/e8701c29-a6a5-439e-98f9-92616ecb8ca5)
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -16,19 +17,55 @@
 
 ###
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">Programming Languages & Technology</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+
+   <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/d50252f9-50f1-4129-8a72-d03f5d01112f" height="60" alt="SQL logo"  />
+  <img width="12" />
+<img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/3ff1ef77-6540-45ed-b03d-99dc4a0c0e69" height="60" alt="Mongo logo"  />
+  <img width="12" />
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/f41312e1-640f-40cc-9d52-3fdde3364a59" height="60" alt="Linux logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
 
 ###
+
+<h2 align="left">Tools</h2>
+
+###
+
+
+<div align="left">
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/da655a57-12d7-4729-a4b1-a840e15caff3" height="60" alt="Wireshark logo" />
+  <img width="12" />
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/7aee2225-9b3e-4791-b9e3-ca1894c13a2c" height="60" alt="Burpsuite logo"  />
+  <img width="12" />
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/7508306e-bf4d-410d-92c7-727512ec0a96" height="60" alt="Metasploit logo"  />
+  <img width="12"/>
+  
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/72529aad-7f54-4ccc-a123-6be34992a277" height="60" alt="Nmap logo"  />
+  <img width="12"/>
+  
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/c1e73d81-e638-425e-8cf2-d6e931798cfc" height="60" alt="TCPDump logo"  />
+  <img width="12"/>
+  
+  <img src="https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/f6dbc598-fde0-42fa-8721-ebe7a4f6cd2f" height="60" alt="SIEM logo"  />
+  <img width="12"/>
+  
+ 
+  
+</div>
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/erfan-aly" target="_blank">
@@ -78,18 +115,12 @@
 
 ###
 
-<h1 align="left">Tools</h1>
-
-###
-<ul>
-<li><h4 align="left">Wireshark</h4></li>
-<li><h4 align="left">Security Information & Event (SIEM)</h4></li>
-<li><h4 align="left">Burpsuite</h4></li>
-<li><h4 align="left">Nmap</h4></li>
-<li><h4 align="left">Metasploit</h4></li>
-<li><h4 align="left">TCPDump</h4></li>
-</ul>
+<h3 align="left">Note-Me (Note Taking Application)</h3>
 
 ###
 
+<p align="left">https://github.com/Irfan-Ely/Note-Me-Android-Application</p>
+
+
+###
 
