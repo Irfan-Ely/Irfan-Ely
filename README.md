@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Graduated From University Of Baltistan Skardu<br>📚 I'm currently learning and practicing cybersecurity<br>🎯 Goals: Offensive Security Engineer</p>
+<p align="left"><br>📚 I'm currently learning and practicing cybersecurity<br>🎯 Goals: Offensive Security Engineer</p>
 
 ###
 ###
