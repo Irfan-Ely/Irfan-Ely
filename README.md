@@ -1,5 +1,5 @@
 
-![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/e3fe5c93-6690-466e-8a8b-7f5a8766e7c0)
+![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/31652652-e726-4344-af2d-364b880f36f7)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=irfan-ely.irfan-ely&"  />
