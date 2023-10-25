@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning and practicing cybersecurity<br></p>
+<p align="left"><br>📚 I'm currently learning and practicing cybersecurity<br>
+📚 I'm Python Developer<br></p>
 
 ###
 ###
