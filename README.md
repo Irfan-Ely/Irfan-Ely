@@ -14,7 +14,7 @@
 </li>
   <li> By identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
   </ul></p>
-###
+
 
 <h2 align="left">About me</h2>
 
