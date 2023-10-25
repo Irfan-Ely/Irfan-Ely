@@ -9,7 +9,12 @@
 ###
 
 
-<p align="left">My name is Irfan Ali and I'm passionate about safeguarding the digital environment by identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</p>
+<p align="left">My name is Irfan Ali and I'm passionate about safeguarding the digital environment by 
+  <ul><li> By detecting, analyzing, and responding to security incidents.
+</li>
+  <li> By identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
+  </ul>
+  .</p>
 
 ###
 
