@@ -10,10 +10,11 @@
 ###
 
 
-<p align="left">My name is Irfan Ali and I'm passionate about safeguarding the digital environment by 
-  <ul><li> By detecting, analyzing, and responding to security incidents.
+<p align="left">My name is Irfan Ali and I'm  
+  <ul><li> Detail-oriented Python developer with strong problem-solving skills and a passion for writing clean,
+efficient code. Committed to continuous learning and contributing to innovative projects.
 </li>
-  <li> By identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
+  <li> Passionate about safeguarding the digital environment by identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
   </ul></p>
 
 
