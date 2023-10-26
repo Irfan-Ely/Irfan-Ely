@@ -1,5 +1,5 @@
 
-![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/48aaf128-c59e-487c-ba66-66ac9d637a90)
+![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/c8ef2f07-266a-4b59-ad79-7d903f1127e9)
 
 
 <div align="center">
