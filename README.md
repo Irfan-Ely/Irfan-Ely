@@ -1,4 +1,3 @@
-![Irfan Ali](https://github.com/Irfan-Ely/Irfan-Ely/assets/118766951/0a0913ab-50bc-44e2-b59d-e217bbe36fa6)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=irfan-ely.irfan-ely&"  />
