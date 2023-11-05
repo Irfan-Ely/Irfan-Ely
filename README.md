@@ -21,7 +21,7 @@ efficient code. Committed to continuous learning and contributing to innovative 
 ###
 
 <p align="left"><br>📚 Currently learning and practicing OffSec<br>
-📚 Python Developer<br></p>
+📚 Software Developer<br></p>
 
 ###
 ###
