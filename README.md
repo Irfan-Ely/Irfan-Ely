@@ -9,7 +9,7 @@
 
 
 <p align="left">My name is <b>Irfan Ali</b> and I'm  
-  <ul><li> Detail-oriented Python developer with strong problem-solving skills and a passion for writing clean,
+  <ul><li> Detail-oriented Software developer with strong problem-solving skills and a passion for writing clean,
 efficient code. Committed to continuous learning and contributing to innovative projects.
 </li>
   <li> Passionate about safeguarding the digital environment by identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
