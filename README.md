@@ -18,8 +18,8 @@
 
 ###
 
-<p align="left"><br>📚 Currently learning and practicing Cybersecurity<br>
-📚 Web Developer<br></p>
+<p align="left"><br>📚 Currently learning and practicing OffSec<br>
+</p>
 
 ###
 ###
