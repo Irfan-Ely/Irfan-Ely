@@ -8,7 +8,7 @@
 ###
 
 
-<p align="left">My name is <b>Irfan Ali</b> and I'm  
+<p align="left">I'm  </b>
   <ul>
   <li> Passionate about safeguarding the digital environment by identifying and rectifying security vulnerabilities in an organization’s critical and logical assets.</li>
   </ul></p>
